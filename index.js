@@ -1,4 +1,4 @@
-const Taxi = require('./Taxi');
+const Taxi = require('./Taxi.js');
 
 const jonas = new Taxi('Jonas');
 const maryte = new Taxi('Maryte');
